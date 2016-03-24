@@ -1,2 +1,25 @@
 # TUTORIAL_TOP_UP_LOKETNESIA
 nuragha komunitas transaksi online
+
+<h3 style="text-align: center;"><span style="color: #000000;"><strong>TUTORIAL TOP UP CARA DEPOSIT DAN BUKU SALDO DI AGEN LOKETNESIA NURAGHA KOMUNITAS TRANSAKSI ONLINE</strong></span></h3>
+<h4 style="text-align: left;"><span style="color: #800000;"><strong>PERTAMA SILAHKAN BUKA  AGEN LOKETNESIA  SETELAH ITU MASUK atau LOGIN MENGGUNAKAN AKUN ANDA</strong></span></h4>
+<h6 style="text-align: left;">Masukkan ,  ID , PASSWORD , Serta Kode akses nya , Masukkan  Password Dengan PIN D4F , Yang ada di AKUN anda Yang didapat setelah Mendaftar dan Gabung Dengan Nuragha Group Bersama PAK BAGONG , Yang Belum Gabung Silahkan Gabung dan Daftar Untuk Mendapatkan AKUN anda ,untuk gabung dan daftar buka di Menu <strong><a href="http://nuragha.com/panduan/" target="_blank">Panduan</a> </strong>Untuk Gabung Dan daftar serta Mendapatkan Akun ID,Pssword,Pin d4f</h6>
+<img class="wp-image-282 aligncenter" src="http://nuragha.com/wp-content/uploads/2016/03/tutorial-air-150x150.jpg" alt="tutorial air" width="375" height="376" />
+<h4><span style="color: #800000;">KEDUA SILAHKAN LOGIN MENGGUNAKAN AKUN ANDA SEPERTI GAMBAR DI BAWAH INI</span></h4>
+<h6>Masukkan Id anda , Dan Password ,Kemudian Kode Akses sesuai Yang Tertera , Perhatian Untuk Password Di Isi Dengan Pin D4F anda</h6>
+<img class="wp-image-281 aligncenter" src="http://nuragha.com/wp-content/uploads/2016/03/IMG_20160317_131455-150x150.jpg" alt="IMG_20160317_131455" width="388" height="388" />
+<h4><span style="color: #800000;">KETIGA DEPOSIT SALDO SETELAH LOGIN ARAHKAN MOUSE KE MENU KEUANGAN PILIH TUP UP TERUS KLIK TIKET DEPOSIT</span></h4>
+<h6>Untuk melakukan Deposit anda harus mengisi data form pada menu Keuangan -&gt; top up -&gt; Tiket Deposit , Lalu masukkan Nominal yang akan anda deposit Kemudian masukkan Bank asal yang anda pakai untuk transfer dan masukkan Nomer Rekening Asal , nomer rekening yang anda pakai untuk transfer kemudian masukkan Nama Pemilik Rekening yang di pakai untuk transfer , terus masukkan rekening tujuan PT.LOKET INDONESIA MANDIRI, Setelah pengisian data selesai untuk melanjutkan silahkan klik  Ambil Tiket Deposit , Lihat Contoh Gambar Di Bawah.</h6>
+<img class=" wp-image-379 aligncenter" src="http://nuragha.com/wp-content/uploads/2016/03/imgres-4.jpg" alt="imgres 4" width="366" height="213" />
+<h6>Jika pengisian sudah benar, maka akan Tampil Pesan Sukses. Seperti contoh gambar dibawah ini .</h6>
+<img class=" wp-image-381 aligncenter" src="http://nuragha.com/wp-content/uploads/2016/03/deposit-sekses.jpg" alt="deposit sekses" width="365" height="205" />
+<h6>Setelah sukses muncul perintah transfer dan sudah muncul nominal yang harus di transfer , perhatikan jumlah nominal yang muncul , segeralah transfer ke PT. LOKET INDONESIA MANDIRI  Sesuai nominal yang tertera . SETELAH AMBIL TIKET DEPOSIT  SEGERA TRANSFER KARENA WAKTU LIMIT CUMAN 2 JAM</h6>
+<h6>Selanjutnya silahkan anda cek status dari deposit anda, caranya klik pada menu &lt;Keuangan&gt; lalu pilih &lt;Top up&gt; kemudian pilih &lt;daftar top up&gt;  kemudian muncul seperti contoh gambar di bawah.</h6>
+<img class="wp-image-382 aligncenter" src="http://nuragha.com/wp-content/uploads/2016/03/IMG_20160319_111321-CEK-STATUS.jpg" alt="IMG_20160319_111321 CEK STATUS" width="375" height="211" />
+<h5>"<strong><span style="color: #ff0000;">PERINGATAN SANGAT PENTING PERTAMA</span></strong>" JIKA LEWAT 2 JAM SETELAH PENGAMBILAN TIKET DEPOSIT BELUM DI TRANSFER MAKA SISTEM AKAN MERIJEC PENGAJUAN TIKET ANDA, DAN JIKA ANDA KENA RIJEC 2X MAKA ANDA AKAN KENA SANGSI yaitu AKUN ANDA AKAN DI HAPUS DARI SISTEM DAN ANDA TIDAK BISA MENGGUNAKANNYA LAGI .</h5>
+<h5>"<strong><span style="color: #ff0000;">PERINGATAN PENTING KEDUA</span></strong>" JIKA SUDAH AMBIL TIKET DEPOSIT PERHATIKAN NOMINAL YANG HARUS DI TRANSFER, TRANSFERLAH SESUAI JUMLAH NOMINAL YANG TERTERA PADA TIKET ANDA, JIKA YANG ANDA TRANSFER TIDAK SESUAI DENGAN NOMINAL YANG TERTERA MAKA SISTEM TIDAK BISA MEMBACA DAN SALDO DEPOSIT ANDA TIDAK AKAN MASUK.</h5>
+<h4><span style="color: #993300;">Keempat Lihat Data Mutasi Anda silahkan cek Pada Menu &lt;keuangan&gt; kemudian Pilih &lt;buku saldo&gt; , Lihat Seperti Contoh Gambar Di bawah Ini.</span></h4>
+<img class=" wp-image-378 aligncenter" src="http://nuragha.com/wp-content/uploads/2016/03/images-10.jpg" alt="images 10" width="329" height="247" />
+<h6>Semua status Transaksi Untuk Deposit , Refound ataupun Top Up Akan Muncul Di Buku Saldo Seperti Contoh gambar di bawah ini.</h6>
+<img class=" wp-image-383 aligncenter" src="http://nuragha.com/wp-content/uploads/2016/03/IMG_20160319_111420-buku-saldo.jpg" alt="IMG_20160319_111420 buku saldo" width="381" height="214" />
+<h4><span style="color: #993300;">Kami <strong>Nuragha Komunitas Transaksi Online</strong> Mengucapkan Terima Kasih Semoga Bermanfaat Dan Dapat Membantu Anda. Salam Sukses Selamat Mencoba Bersama <span style="color: #000000;"><strong><a style="color: #000000;" href="http://nuragha.com/agenloket/">Nuragha Agen Loketnesia</a></strong></span></span></h4>
